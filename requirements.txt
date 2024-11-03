@@ -1,0 +1,6 @@
+openai
+pandas
+scikit-learn
+statsmodels
+matplotlib
+reportlab
