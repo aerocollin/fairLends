@@ -25,7 +25,7 @@ FairLend is a Python application that helps financial institutions identify pote
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/FairLend.git
+   git clone https://github.com/aerocollin/FairLend.git
    cd FairLend
 
 2. **Set the OpenAI API key**
